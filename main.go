@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/bkohler93/advent-of-code/2023/day-six/loader"
-	"github.com/bkohler93/advent-of-code/2023/day-six/race"
+	"github.com/bkohler93/advent-of-code-2023-day-six/loader"
+	"github.com/bkohler93/advent-of-code-2023-day-six/race"
 )
 
 func main() {
